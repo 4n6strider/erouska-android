@@ -124,4 +124,5 @@ Sledujte svoj zdravotný stav. Viac informácií nájdete v aplikácii.</string>
     <string name="dialog_en_api_not_found_title">Chyba aktivácie (%d)</string>
     <string name="dialog_en_api_not_found_message">Exposure Notifications API nie je k dispozícii, kontaktujte, prosím, podporu.</string>
     <string name="ok">OK</string>
+    <string name="search">Hľadať</string>
 </resources>

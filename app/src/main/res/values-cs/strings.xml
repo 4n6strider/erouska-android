@@ -141,5 +141,6 @@
     <string name="dialog_en_api_not_found_title">Chyba aktivace (%d)</string>
     <string name="dialog_en_api_not_found_message">Exposure Notifications API není k dispozici, kontaktujte prosím podporu.</string>
     <string name="ok">OK</string>
+    <string name="search">Hledat</string>
 
 </resources>

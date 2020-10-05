@@ -123,4 +123,7 @@
     <string name="dialog_en_api_not_found_title">Activation error (%d)</string>
     <string name="dialog_en_api_not_found_message">Exposure Notifications API is not available, please contact support.</string>
     <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Type here ..</string>
+
 </resources>
